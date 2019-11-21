@@ -1,7 +1,7 @@
 ## complevo_frontend_developer
 This project get users from API and displays details, You can search the name in searchbar.
 
-### Installation
+### Instructions
 
 ```bash
 1. git clone git@github.com:ApurvaZun/complevo_frontend_developer.git
